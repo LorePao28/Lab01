@@ -1,4 +1,6 @@
-Paolo 4
-Lucia 1
-Mario 1
-Giuseppe 0
+Pao 4
+Paolo 3
+Fiasco 2
+Garel 2
+Miglie 2
+Tucci 1
